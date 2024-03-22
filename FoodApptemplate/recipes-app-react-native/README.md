@@ -34,4 +34,4 @@ And scan the QR code in the Expo client app.
 - Compatible with Expo
 - Highly modularized codebase
 
-Coded with 💖💖💖 by <a href="https://instamobile.io/">Instamobile</a>, <a href="https://instaflutter.com/">Instaflutter</a>. and <a href="https://instakotlin.com/">Instakotlin</a>.
+
